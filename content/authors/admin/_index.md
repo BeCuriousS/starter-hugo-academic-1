@@ -14,7 +14,7 @@ organizations:
   url: https://tu-dresden.de/ing/elektrotechnik/ibmt/forschung/mm?set_language=en
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research is focused around machine learning and its application to imaging photoplethysmography.
+bio: Currently, I'm focusing on machine learning and its application to imaging photoplethysmography.
 
 # Interests to show in About widget
 interests:
@@ -42,15 +42,18 @@ social:
 # - icon: envelope
 #   icon_pack: fas
 #   link: mailto:matthieu.scherpf@outlook.com
-- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=xsHTViIAAAAJ&hl=de
 - icon: github
   icon_pack: fab
   link: https://github.com/BeCuriousS
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Matthieu-Scherpf
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=xsHTViIAAAAJ&hl=de
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-6754-5257
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/matthieu-scherpf-08673121a/
@@ -70,6 +73,6 @@ highlight_name: false
 
 I'm leading the Medical Sensing Research Group at the Institute of Biomedical Engineering at the Technische Universität Dresden. My research focuses on the development of non-contact medical sensor technologies to ease the future vital sign measurement.
 
-I am currently focused on improving [imaging photoplethysmography (iPPG)](https://en.wikipedia.org/wiki/Photoplethysmogram#Remote_photoplethysmography) which aims to measure vital signs like the heart and breathing rate using video recordings of human skin. In order to achieve this, I'm implementing Machine Learning technologies including artificial neural networks to extract the information from complex data.
+I am currently focused on improving [imaging photoplethysmography (iPPG)](https://en.wikipedia.org/wiki/Photoplethysmogram#Remote_photoplethysmography) which aims to measure vital signs like the heart and breathing rate using video recordings of human skin. In order to achieve this, I'm implementing machine learning technologies including artificial neural networks to extract the information from complex data.
 
 I am mainly interested in Machine Learning and its application to real-world problems.

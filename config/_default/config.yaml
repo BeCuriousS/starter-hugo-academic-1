@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
+title: Matthieu Scherpf # Website name
 baseurl: 'https://becuriouss.github.io/matthieu-scherpf/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© 2021 Matthieu Scherpf' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

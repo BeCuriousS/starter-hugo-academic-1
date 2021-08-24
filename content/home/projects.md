@@ -2,6 +2,7 @@
 # An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: portfolio
+active: true
 
 # This file represents a page section.
 headless: true
@@ -27,8 +28,14 @@ content:
   filter_button:
   - name: All
     tag: '*'
+  - name: Machine Learning
+    tag: Machine Learning
   - name: Deep Learning
     tag: Deep Learning
+  - name: Algorithmic
+    tag: Algorithmic
+  - name: Private Projects
+    tag: Private Projects
   - name: Other
     tag: Demo
 
@@ -41,7 +48,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 2
+  view: 5
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false

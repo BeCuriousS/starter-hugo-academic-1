@@ -20,50 +20,25 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: Matthieu.Scherpf@tu-dresden.de
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+  street: Fetscherstraße 29
+  city: 01307 Dresden
+  region: Germany
 contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
+  - icon: link
     icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    name: https://tu-dresden.de/ing/elektrotechnik/ibmt/forschung/mm?set_language=en 
 
 # Site header
 
 main_menu:
   enable: true
-  align: l
-  show_logo: true
+  align: r
+  show_logo: false
   show_language: false
-  show_day_night: true
-  show_search: true
+  show_day_night: false
+  show_search: false
   highlight_active_link: true
 
 # Localization
@@ -75,8 +50,8 @@ address_format: en-us
 # Site features
 
 highlight: true
-highlight_languages:
-  - r
+highlight_languages: 
+- r
 math: false
 diagram: false
 privacy_pack: false
@@ -98,7 +73,7 @@ show_related:
 reading_time: true
 section_pager: false
 docs_section_pager: true
-sharing: true
+sharing: false
 copyright_license:
   enable: false
   allow_derivatives: false
@@ -112,7 +87,7 @@ avatar:
   shape: circle
 publications:
   date_format: January 2006
-  citation_style: apa
+  citation_style: ieee
 projects:
   post_view: 2
   publication_view: 2
