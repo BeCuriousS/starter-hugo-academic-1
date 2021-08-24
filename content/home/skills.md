@@ -41,9 +41,9 @@ feature:
   icon_pack: custom
   name: JavaScript
 - description: 80%
-  icon: github
+  icon: git-alt
   icon_pack: fab
-  name: GitHub
+  name: Git
 - description: 75%
   icon: docker
   icon_pack: fab
