@@ -18,7 +18,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
-publication_short: ""
+publication_short: "Sepsis prediction challenge"
 
 abstract: "Early detection and treatment of sepsis is of utmost importance concerning sepsis outcome and costs. However, revealing patterns in vital signs and laboratory measurements which facilitate reliable prediction of sepsis onset remains challenging. Especially exploiting the time series characteristic of those measurements is expected to play a major role concerning successful sepsis prediction. Within this work, we propose a stacked combination of a recurrent neuronal network (RNN) and a light gradient boosted machine (LGBM) to target the objective of sepsis onset prediction. Here, 8 vital signs, 26 laboratory measurements and 3 demographic parameters are included as input to our classification model. Our last running model achieved a utility score on full test set of 0.114 (TU Dresden - IBMT)."
 

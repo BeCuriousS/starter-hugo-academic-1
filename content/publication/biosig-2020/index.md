@@ -17,7 +17,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
-publication_short: ""
+publication_short: "cbPPG and VAC Therapy"
 
 abstract: "Camera-based photoplethysmography (cbPPG) allows the contactless measurement of various vital signs. Using this method, our goal is to evaluate the blood flow regarding an increase or decrease after applying local vacuum therapy on the thigh."
 

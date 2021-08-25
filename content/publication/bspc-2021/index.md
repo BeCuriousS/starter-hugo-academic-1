@@ -17,7 +17,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
-publication_short: ""
+publication_short: "On the color channel combination"
 
 abstract: "**Objective**: The heart rate is an essential vital sign that can be measured remotely with camera-based photoplethysmography (cbPPG). Systems for cbPPG typically use cameras that deliver red, green, and blue (RGB) channels. The combination of these channels has been proven to increase signal-to-noise ratio (SNR) and heart rate measurement accuracy (ACC). However, many combinations remain untested, the comparison of proposed combinations on large datasets is insufficiently investigated, and the interplay with skin tone is rarely addressed.
 

@@ -18,7 +18,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
-publication_short: ""
+publication_short: "Sepsis prediction from clinical data"
 
 abstract: "**Objective**: Predicting sepsis onset with a recurrent neural network and performance comparison with InSight - a previously proposed algorithm for the prediction of sepsis onset.
 

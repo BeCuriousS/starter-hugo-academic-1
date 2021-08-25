@@ -18,7 +18,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
-publication_short: ""
+publication_short: "DeepPerfusion"
 
 abstract: "Imaging photoplethysmography (iPPG) is a camerabased approach for the remote extraction of the blood volume pulse (BVP) most commonly applied to facial video recordings. The major challenges of this promising technique are the low amplitude of BVP signals and their superposition with artifacts as well as physiological and non-physiological movement induced distortions. We addressed this complexity with a 3D convolutional neural network, which we called DeepPerfusion, to improve BVP extraction from iPPG. Our approach is based on the idea of enabling DeepPerfusion to learn the extraction of the BVP from videos by understanding their relation to the ground truth signals. First results show that DeepPerfusion outperforms state-of-the-art algorithms for remote BVP extraction demonstrating a mean absolute error of 0.66 beats per minute (up to 60% improvement) regarding the BVP based pulse rate estimation for 21 randomly chosen held out test subjects of the UBFC dataset."
 

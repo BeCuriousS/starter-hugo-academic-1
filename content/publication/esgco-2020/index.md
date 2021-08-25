@@ -17,7 +17,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
-publication_short: ""
+publication_short: "Experiments with color spaces"
 
 abstract: "Camera-based heart rate (HR) estimation is used with different color spaces and regions of interest (ROIs). In this work, seven commonly used ROIs were determined via facial landmarks focusing on forehead, cheeks and glabella, and one ROI was derived by level set segmentation. For each ROI, 25 signals of eight color spaces were derived and HR estimation accuracy was determined. Both color channel and ROI showed significant effects on the accuracy of HR estimation. Glabella or forehead ROI combined with HSV-H or NTSC-Q color channel (accuracy: up to 73.3 %) as well as level set ROI with NTSC-Q color channel (accuracy: 68.7%) performed best."
 
